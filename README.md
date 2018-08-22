@@ -1,2 +1,5 @@
-# cencabo150
-Prueba en clase
+# Cencabo grupo 150
+## Descripcion del proyecto
+Proyecto Prueba en clase
+## Instrucciones
+
